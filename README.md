@@ -4,7 +4,7 @@ Esta versão exporta QMD e XML ISO 19139 orientado ao Perfil Nacional de Metadad
 
 O plugin gera a estrutura obrigatória para CDG/séries: identificação, palavras-chave GEMET/INSPIRE, restrições, categoria temática, resolução espacial, tipo de representação, extensão geográfica, distribuição, metadados, qualidade/histórico e sistema de referência.
 
-Para conformidade semântica, preencha na camada QGIS as propriedades personalizadas aplicáveis:
+Para conformidade semântica,  quando aplicável informa a necesside de preencha na camada QGIS as propriedades personalizadas aplicáveis:
 
 - inspire/theme: código ou nome do tema INSPIRE, por exemplo au, cp, Unidades administrativas.
 - inspire/topic_category: categoria ISO, por exemplo boundaries, planning Cadastre, transportation.
